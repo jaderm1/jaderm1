@@ -100,6 +100,3 @@
 
 <br/>
 
-
------
-Credits: [Nneji123](https://github.com/Nneji123)
